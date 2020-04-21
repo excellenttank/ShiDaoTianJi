@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">世道天机</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="lingDongShu_remind">请输入一位1~8的灵动数</string>
+    <string name="tianPan_remind">点击天盘选择您要预测的事</string>
+    <string name="diPan_remind">点击地盘选择您要预测的事</string>
+    <string name="resultButton_text">查看预测结果</string>
+    <string name="tianPan">天盘</string>
+    <string name="diPan">地盘</string>
+    <string name="tianPan_Title">三清玉镜玄演天盘</string>
+    <string name="diPan_Title">鸿钧八景玄演地盘</string>
+    <string name="splashImage">闪屏图片</string>
+    <string name="btn_confirm">确定</string>
+    <string name="remindTitle1">预测指南针</string>
+    <string name="remindContent1">\t\t为了确保你的预测具有惊人的准确性，凡要进行预测的人，请务必在开始预测之前的认真仔细地阅读本篇。</string>
+    <string name="remindTitle2">预测必知法则</string>
+    <string name="remindContent2">\t\t无论你是为自己或是其他任何人进行预测，以下的法则你必须铭记在心，并严格地遵循。否则，你的预测将毫无意义且绝不会灵验！
+平时没有特别的事情或相当的需要，请切勿随便使用本软件预测。预测绝不是游戏!\n\t\t预測——是用以预知未来，解决疑问的，是一件郑重的事情如果仅仅为了解闷或好玩而随意使用本软件，以儿戏的心态对待本软件，那本软件对你也会同样儿戏。你将会逐渐失去与本软件的感应，预測的准确性也会越来越差，这绝非耸人听闻!
+绝不允许预测并不存在的或尚未发生的事情\n\t\t例如，男人测“孕产”，为已死的人预測未來，明明不安无事却测“官司”……等等。这一类的预测，任何人都很清楚，绝不会准确。不仅《世道天机》如此，即使世上最高明的预言家，使用所有神奇的预知方法，也绝不可能准确！因为预测并非是可以无中生有的魔法。
+完全相同的一件事，在一周之内，绝对不可以反复预测\n\t\t只有第一灵感的预测才是最准确而神奇的，多次预测的结果只会使你头脑混乱，无所适从。这样一来究竟哪一个预测会成为现实，谁也无法清楚。</string>
+    <string name="notremindnext">下次不再提示</string>
+    <string name="channel_name">app_channel</string>
+
+</resources>
